@@ -4,8 +4,8 @@ Creating this repo to prepare to run TL hours tomorrow.
 ## Snapshots
 [JEST](https://jestjs.io/blog/2016/07/27/jest-14.htm)
 
-[] - 1. install `react-test-renderer`
-[] - 2. import renderer into test file
+- [] 1. install `react-test-renderer`
+[] 2. import renderer into test file
 `import renderer from 'react-test-renderer'` 
 
 	3. create test in test file
