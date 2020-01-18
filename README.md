@@ -1,8 +1,9 @@
 # React Testing Walk Through
+[JEST](https://jestjs.io/docs/en/getting-started)
 Creating this repo to prepare to run TL hours tomorrow. 
 
 ## Snapshots
-[JEST](https://jestjs.io/blog/2016/07/27/jest-14.htm)
+[JEST Snapshots](https://jestjs.io/blog/2016/07/27/jest-14.htm)
 
 1. npm install `react-test-renderer`
 2. import renderer into test file
@@ -26,7 +27,8 @@ test('should match snapshot', () => {
 
 ## Asynchronous Code
 
-1. 
+1. npm install `axios` 
+2. 
 
 
 ***

@@ -24,7 +24,7 @@ describe("Asyncronous code", () => {
     expect(users.data.length).toBe(10);
   });
 
-  it("users should have a name", () => {
+  test("users should have a name", () => {
     axios
     .get('https://jsonplaceholder.typicode.com/users')
     .then((res) => {
